@@ -1,0 +1,6 @@
+name: D3sertCommands
+version: release1.0.0
+main: me.d3sertoff.d3sertsanimatedemotes.Main
+description: Plugin feito por d3sertoff!
+commands:
+ discord

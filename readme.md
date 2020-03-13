@@ -1,0 +1,1 @@
+Este é um plugin exclusivo de D3sert para usos privados se você quiser utiliza-lo possivelmente tera que reconfigurar.
